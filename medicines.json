@@ -1,0 +1,250 @@
+{
+    "Ibupara": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Paracetamol 500mg": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Paracetamol 650 mg": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Dicyclomine hcl": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Cheston cold": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "B.complex (mvbc)": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Diclofenac50mg": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Avil25mg": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Ceterizen 10 mg": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Pantop 40 mg": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Norfloxacin & Tinidazole": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Metronidazole": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Azithromycin 500mg": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Ciprofloxacin": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Ofloxacin": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Cefixime 200 mg": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Combit of fluconazole": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Ivermectin 12 mg": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Ors": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Luperamide": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Alprazolam 0.5": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Sorbitrat 5mg": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Amlodipine": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Tube miconazole": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Tube Diclofenac": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Tube fusidic acid": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Tube povidone": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Bandage 6 inch": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Bandage 4 inch": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Ivf.Ns 100ml": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Ivf.Ns 500 ml": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Ivf.DNS 500 ml": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Ivf.5D 500 ml": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Syringe 2 ml": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Syringe 5ml": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Syringe 10 ml": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Syringe 3 ml": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Hydrogen peroxide 500ml": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Microstrile 500ml": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Malti vitamin 200ml": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Paracetamol 60ml": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Cheston cold 60ml": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "C-zen plus 60ml (ctz)": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Albendazole 10ml": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Amoxycillin suspension 30ml": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Ciprofloxacin eye drop 10ml": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Avil 75mg": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Hyoscine butylbromide 20mg (biscogen)": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Sodium bicarbonate 7.5 w/v": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Optineuronforte 3ml": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Diclofenac sodium 75mg/ml (Dynapar)": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Phenytoin sodium 50mg": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Paracetamol 150mg/ml": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Ondansetron 2ml": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Gentamycin 2ml": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Dopamine 40mg": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Oxytocin 1ml": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Adrenaline bitartrate 1ml": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Atropine sulphate 1ml": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Trenaxamic acid 500mg": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Tetanus (T.T.) 0.5ml": {
+        "quantity": 50,
+        "price": 10.0
+    },
+    "Oxidocin": {
+        "quantity": 50,
+        "price": 10.0
+    }
+}
