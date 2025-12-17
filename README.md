@@ -65,37 +65,6 @@ Hospital_Management_System/
 
 ---
 
-## ▶️ How to Run Locally
-
-### 1️⃣ Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 2️⃣ Run the app
-
-```bash
-streamlit run hospital_management_system.py
-```
-
-The app will open automatically in your browser.
-
----
-
-## ☁️ Deployment
-
-This project can be deployed for free using **Streamlit Community Cloud**.
-
-Steps:
-
-1. Upload project to GitHub
-2. Go to [https://streamlit.io/cloud](https://streamlit.io/cloud)
-3. Connect GitHub repository
-4. Select `hospital_management_system.py` as main file
-
----
-
 ## 🎓 Academic Purpose
 
 This project is developed for **learning and academic demonstration purposes** as part of a **Computer Engineering curriculum**.
@@ -119,3 +88,4 @@ Computer Engineering Student
 ## 📜 License
 
 This project is open-source and free to use for educational purposes.
+
